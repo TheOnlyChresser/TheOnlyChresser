@@ -1,9 +1,9 @@
 # Chresser
 <div style="width: 100%;"><a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=theonlychresser&theme=gradient" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=theonlychresser&theme=gradient" />
 </a>
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlychresser" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlychresser" />
 </a></div>
 # 👋 Hi, I'm TheOnlyChresser!
 
