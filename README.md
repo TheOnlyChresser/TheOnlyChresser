@@ -36,3 +36,12 @@ Want to see what I'm tinkering with? Check out my repos!
 ---
 
 > “Code with curiosity, learn with passion, and dream beyond the screen!” 🚀
+
+---
+
+<div><a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=theonlychresser&theme=gradient" />
+</a>
+<a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlychresser" />
+</a></div>
