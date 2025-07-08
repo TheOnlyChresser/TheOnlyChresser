@@ -14,7 +14,7 @@
 - Frontend wizardry & modern web technologies ✨
 
 ---
-<div style="width: 100%;"><a>
+<div><a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/?username=theonlychresser&theme=gradient" />
 </a>
 <a>
