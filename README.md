@@ -1,10 +1,4 @@
 # Chresser
-<div style="width: 100%;"><a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=theonlychresser&theme=gradient" />
-</a>
-<a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlychresser" />
-</a></div>
 # 👋 Hi, I'm TheOnlyChresser!
 
 🎓 Student at HTX Roskilde  
@@ -20,7 +14,13 @@
 - Frontend wizardry & modern web technologies ✨
 
 ---
-
+<div style="width: 100%;"><a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=theonlychresser&theme=gradient" />
+</a>
+<a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlychresser" />
+</a></div>
+---
 ## 🚀 Projects I’m Proud Of
 
 Most of my favorite creations are school projects – each one a new adventure in code and creativity!  
