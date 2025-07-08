@@ -13,7 +13,7 @@
 - React ⚛️, Laravel 💻, PHP, JavaScript & TypeScript
 - Frontend wizardry & modern web technologies ✨
 
----
+
 <div><a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/?username=theonlychresser&theme=gradient" />
 </a>
